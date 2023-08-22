@@ -74,19 +74,19 @@ export const footerLinks = [
   {
     title: "About",
     links: [
-      { title: "How it works", url: "/" },
-      { title: "Featured", url: "/" },
-      { title: "Partnership", url: "/" },
-      { title: "Bussiness Relation", url: "/" },
+      { title: "How it works", url: "https://www.jasonzubiate.com/" },
+      { title: "Featured", url: "https://www.jasonzubiate.com/" },
+      { title: "Partnership", url: "https://www.jasonzubiate.com/" },
+      { title: "Bussiness Relation", url: "https://www.jasonzubiate.com/" },
     ],
   },
   {
     title: "Company",
     links: [
-      { title: "Events", url: "/" },
-      { title: "Blog", url: "/" },
-      { title: "Podcast", url: "/" },
-      { title: "Invite a friend", url: "/" },
+      { title: "Events", url: "https://www.jasonzubiate.com/" },
+      { title: "Blog", url: "https://www.jasonzubiate.com/" },
+      { title: "Podcast", url: "https://www.jasonzubiate.com/" },
+      { title: "Invite a friend", url: "https://www.jasonzubiate.com/" },
     ],
   },
   {
